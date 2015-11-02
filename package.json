@@ -3,6 +3,6 @@
     "description": "Note: double curly-braces because python .format",
     "version": "0.0.0",
     "scripts": {
-        "preinstall": "npm install jscs@2.3.5 -g"
+        "preinstall": "npm install jscs@2.4.0 -g"
     }
 }
