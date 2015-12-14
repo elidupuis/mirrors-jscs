@@ -3,3 +3,8 @@
     entry: jscs
     language: node
     files: \.js$
+    args: []
+
+    # Use additional_dependencies to install the actual node package
+    additional_dependencies: ['jscs@2.5.1']
+    minimum_pre_commit_version: 0.7.0

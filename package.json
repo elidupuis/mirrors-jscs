@@ -1,8 +1,5 @@
 {
-    "name": "__dummy_package",
+    "name": "dummy_package",
     "description": "Note: double curly-braces because python .format",
-    "version": "0.0.0",
-    "scripts": {
-        "preinstall": "npm install jscs@2.5.0 -g"
-    }
+    "version": "0.0.0"
 }
