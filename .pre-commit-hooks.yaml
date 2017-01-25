@@ -1,0 +1,10 @@
+-   id: jscs
+    name: jscs
+    entry: jscs
+    language: node
+    files: \.js$
+    args: []
+
+    # Use additional_dependencies to install the actual node package
+    additional_dependencies: ['jscs@3.0.7']
+    minimum_pre_commit_version: 0.7.0
